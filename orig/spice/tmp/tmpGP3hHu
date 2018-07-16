@@ -1,0 +1,70 @@
+[
+  {
+    "scores": {
+      "All": {
+        "pr": 0.3333333333333333,
+        "re": 0.05555555555555555,
+        "f": 0.09523809523809525,
+        "fn": 17,
+        "numImages": 1,
+        "fp": 2,
+        "tp": 1
+      },
+      "Relation": {
+        "pr": 0,
+        "re": 0,
+        "f": 0,
+        "fn": 6,
+        "numImages": 1,
+        "fp": 1,
+        "tp": 0
+      },
+      "Cardinality": {
+        "pr": null,
+        "re": null,
+        "f": null,
+        "fn": 0,
+        "numImages": 1,
+        "fp": 0,
+        "tp": 0
+      },
+      "Attribute": {
+        "pr": 0,
+        "re": 0,
+        "f": 0,
+        "fn": 4,
+        "numImages": 1,
+        "fp": 0,
+        "tp": 0
+      },
+      "Size": {
+        "pr": 0,
+        "re": 0,
+        "f": 0,
+        "fn": 1,
+        "numImages": 1,
+        "fp": 0,
+        "tp": 0
+      },
+      "Color": {
+        "pr": null,
+        "re": null,
+        "f": null,
+        "fn": 0,
+        "numImages": 1,
+        "fp": 0,
+        "tp": 0
+      },
+      "Object": {
+        "pr": 0.5,
+        "re": 0.125,
+        "f": 0.2,
+        "fn": 7,
+        "numImages": 1,
+        "fp": 1,
+        "tp": 1
+      }
+    },
+    "image_id": 1
+  }
+]
